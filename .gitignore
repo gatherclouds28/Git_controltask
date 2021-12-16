@@ -1,5 +1,5 @@
 #файлы сборки
-/build/
+build/
 
 #служебные файлы Gradle
 .gradle
